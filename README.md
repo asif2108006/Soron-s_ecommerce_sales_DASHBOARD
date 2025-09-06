@@ -1,3 +1,35 @@
-# Soron-s_ecommerce_sales_DASHBOARD
-This repository contains an insightful e-commerce sales dashboard for Soron's, designed to provide a comprehensive overview of key business metrics. 
-The dashboard highlights total sales of $438K and a total quantity of 5,615 items sold. It offers a detailed breakdown of product sales, with Clothing being the leading category, accounting for 63% of the quantity sold.The dashboard also provides valuable insights into customer behavior and payment trends. Cash on Delivery (COD) is the most popular payment method, making up 44% of transactions, followed by UPI at 21%. It also identifies top-performing states like Maharashtra, Madhya Pradesh, and Uttar Pradesh.Key financial metrics are also a central focus. The dashboard shows a total profit of $37K and an Average Order Value (AOV) of $121K. The Profit by Sub-Category chart reveals that Printers, Bookcases, and Sarees are some of the key profit drivers, while the Profit by Month chart visualizes seasonal trends from January through August. This dashboard serves as a powerful tool for monitoring performance and making data-driven decisions.
+# Soron’s E-commerce Sales Dashboard
+
+This repository contains an **interactive and insightful e-commerce sales dashboard** for **Soron’s**, designed to provide a clear overview of key business metrics and performance indicators.
+
+## 📊 Dashboard Highlights
+
+* **Total Sales:** \$438K
+* **Total Quantity Sold:** 5,615 items
+* **Total Profit:** \$37K
+* **Average Order Value (AOV):** \$121K
+
+## 🛍️ Product Performance
+
+* **Clothing** is the top-selling category, contributing **63% of the total quantity sold**.
+* Sub-category analysis highlights **Printers, Bookcases, and Sarees** as major profit drivers.
+
+## 👥 Customer Insights
+
+* **Cash on Delivery (COD)** is the most preferred payment method (**44% of transactions**).
+* **UPI** follows as the second most popular method (**21% of transactions**).
+
+## 🌍 Regional Insights
+
+* **Top-performing states:** Maharashtra, Madhya Pradesh, and Uttar Pradesh.
+
+## 📈 Trends and Seasonality
+
+* **Profit by Month** chart visualizes seasonal variations from **January to August**, helping identify peak and low sales periods.
+
+## 🚀 Purpose
+
+This dashboard serves as a **decision-making tool** for monitoring sales, customer behavior, and profitability, enabling businesses to adopt a data-driven approach for strategy and growth.
+
+Would you like me to also add a **"How to Use"** section (e.g., steps to open the dashboard in Power BI/Excel) so recruiters or collaborators can try it themselves?
+

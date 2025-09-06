@@ -31,5 +31,3 @@ This repository contains an **interactive and insightful e-commerce sales dashbo
 
 This dashboard serves as a **decision-making tool** for monitoring sales, customer behavior, and profitability, enabling businesses to adopt a data-driven approach for strategy and growth.
 
-Would you like me to also add a **"How to Use"** section (e.g., steps to open the dashboard in Power BI/Excel) so recruiters or collaborators can try it themselves?
-
